@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<addressbook>
+    <address>
+        <addressee>John Smith</addressee>
+        <streetaddress>250 18th Ave SE</streetaddress>
+        <city>Rochester</city>
+        <state>MN</state>
+        <postalCode>55902</postalCode>
+    </address>
+ 
+    <address>
+        <addressee>Bill Morris</addressee>
+        <streetaddress>1234 Center Lane NW</streetaddress>
+        <city>St. Paul</city>
+        <state>MN</state>
+        <postalCode>55123</postalCode>
+    </address>
+</addressbook>
